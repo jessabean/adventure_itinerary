@@ -8,8 +8,8 @@
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
 
 ### Places to stay
-* [Hong Han Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/hong-han-hotel)
-* [Blue River Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/blue-river-hotel)
+* [Hong Han Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/hong-han-hotel) - from $12 USD/night
+* [Blue River Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/blue-river-hotel) - from $12 USD/night
 
 ### Things to do
 * [Cat Moc Spa](http://www.tripadvisor.ca/Attraction_Review-g293925-d2726268-Reviews-Cat_Moc_Spa-Ho_Chi_Minh_City.html)
