@@ -1,11 +1,22 @@
 # Vietnam
-- [Ho Chi Minh/Saigon](#saigon)
-- [Hoi An](#hoian)
-- [Hanoi](#hanoi)
-- [Ninh Binh](#ninhbinh)
-- [Ha Long Bay](#halongbay)
+* [Ho Chi Minh/Saigon](#saigon)
+* [Hoi An](#hoian)
+* [Hanoi](#hanoi)
+* [Ninh Binh](#ninhbinh)
+* [Ha Long Bay](#halongbay)
  
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
+
+### Places to stay
+* [Hong Han Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/hong-han-hotel)
+* [Blue River Hotel](http://www.lonelyplanet.com/vietnam/ho-chi-minh-city/hotels/blue-river-hotel)
+
+### Things to do
+* [Cat Moc Spa](http://www.tripadvisor.ca/Attraction_Review-g293925-d2726268-Reviews-Cat_Moc_Spa-Ho_Chi_Minh_City.html)
+* [Cu Chi Tunnels](http://www.tripadvisor.ca/Attraction_Review-g293925-d2005826-Reviews-Cu_Chi_Tunnels-Ho_Chi_Minh_City.html)
+* [Saigon Opera House](http://www.tripadvisor.ca/Attraction_Review-g293925-d454974-Reviews-Saigon_Opera_House_Ho_Chi_Minh_Municipal_Theater-Ho_Chi_Minh_City.html)
+* [Saigon moped tour](http://www.tripadvisor.ca/Attraction_Review-g293925-d1977143-Reviews-Saigon_Unseen-Ho_Chi_Minh_City.html)
+* [War Remnants Museum](http://www.tripadvisor.ca/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)
 
 ## <a name="hoian"></a> Hoi An
 
@@ -16,7 +27,7 @@
 * Bus: 2.5 hours from Hanoi, Giap Bat bus station
 * Train: 2.5 hours from Hanoi, Reunification Express
 
-### Places to Stay
+### Places to stay
 * [Kinh Do Hotel](http://www.lonelyplanet.com/vietnam/north-central-vietnam/ninh-binh/hotels/kinh-do-hotel) - from $14 USD/night
 * [Thanh Binh Hotel](http://www.lonelyplanet.com/vietnam/north-central-vietnam/ninh-binh/hotels/thanh-binh-hotel) - from $16 USD/night
 
