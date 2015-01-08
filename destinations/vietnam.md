@@ -4,6 +4,7 @@
 * [Hanoi](#hanoi)
 * [Ninh Binh](#ninhbinh)
 * [Ha Long Bay](#halongbay)
+* [Can Tho](#cantho)
  
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
 
@@ -23,7 +24,7 @@
 ## <a name="hanoi"></a> Hanoi
 
 ## <a name="ninhbinh"></a> Ninh Binh
-### Getting There
+### Getting there
 * Bus: 2.5 hours from Hanoi, Giap Bat bus station
 * Train: 2.5 hours from Hanoi, Reunification Express
 
@@ -40,9 +41,17 @@
 
 ## <a name="halongbay"></a> Ha Long Bay
 
-### Getting There
+### Getting there
 * Bus: 3 hours from Hanoi to Halong City
 
 ### Things to do
 * [Kayak tour with Cat Ba Ventures](http://www.tripadvisor.ca/Attraction_Review-g737051-d1368569-Reviews-Cat_Ba_Ventures-Cat_Ba.html) - $31 USD/person
 * [Cat Ba Island](http://www.lonelyplanet.com/vietnam/northeast-vietnam/cat-ba-island)
+
+## <a name="cantho"></a> Can Tho
+
+### Getting there
+* Bus: ~3.5-4hrs from HCMC
+
+### Things to do
+* [Cai Rang floating market](http://www.tripadvisor.com/Attraction_Review-g303942-d455150-Reviews-Cai_Rang_Floating_Market-Can_Tho_Mekong_Delta.html) - walk around city and find a boat tour to the market
