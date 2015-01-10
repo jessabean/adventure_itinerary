@@ -1,6 +1,7 @@
 # Vietnam
 * [Ho Chi Minh/Saigon](#saigon)
 * [Hoi An](#hoian)
+* [Da Nang](#danang)
 * [Hanoi](#hanoi)
 * [Ninh Binh](#ninhbinh)
 * [Ha Long Bay](#halongbay)
@@ -20,6 +21,17 @@
 * [War Remnants Museum](http://www.tripadvisor.ca/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)
 
 ## <a name="hoian"></a> Hoi An
+
+## <a name="danang"></a> Da Nang
+
+### Getting there
+* Air: Da Nang International Airport
+* Train: Reunification Express
+
+### Things to do
+* Non Nuoc beach
+* Buddhist pagodas
+* [Marble Mountains](http://www.tripadvisor.ca/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang_Quang_Nam_Province.html)
 
 ## <a name="hanoi"></a> Hanoi
 
