@@ -1,10 +1,10 @@
 # Vietnam
 * [Ho Chi Minh/Saigon](#saigon)
 * [Hoi An](#hoian)
-* [Da Nang](#danang)
 * [Hanoi](#hanoi)
 * [Ninh Binh](#ninhbinh)
 * [Ha Long Bay](#halongbay)
+* [Da Nang](#danang)
 * [Can Tho](#cantho)
  
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
@@ -19,19 +19,12 @@
 * [Saigon Opera House](http://www.tripadvisor.ca/Attraction_Review-g293925-d454974-Reviews-Saigon_Opera_House_Ho_Chi_Minh_Municipal_Theater-Ho_Chi_Minh_City.html)
 * [Saigon moped tour](http://www.tripadvisor.ca/Attraction_Review-g293925-d1977143-Reviews-Saigon_Unseen-Ho_Chi_Minh_City.html)
 * [War Remnants Museum](http://www.tripadvisor.ca/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)
+ 
+<hr />
 
 ## <a name="hoian"></a> Hoi An
 
-## <a name="danang"></a> Da Nang
-
-### Getting there
-* Air: Da Nang International Airport
-* Train: Reunification Express
-
-### Things to do
-* Non Nuoc beach
-* Buddhist pagodas
-* [Marble Mountains](http://www.tripadvisor.ca/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang_Quang_Nam_Province.html)
+<hr />
 
 ## <a name="hanoi"></a> Hanoi
 
@@ -49,6 +42,8 @@
 * Banh Cuon at Banh Cuon Gia Truyen, 14 Pho Hang Ga Street
 * Bun Bo Nam Bo at Bun Bo Nam Bo, 67 Hang Dieu
 
+<hr />
+
 ## <a name="ninhbinh"></a> Ninh Binh
 ### Getting there
 * Bus: 2.5 hours from Hanoi, Giap Bat bus station
@@ -65,6 +60,8 @@
 * [Mua Caves](http://www.tripadvisor.ca/Attraction_Review-g303945-d5321519-Reviews-Mua_Caves-Ninh_Binh_Ninh_Binh_Province.html)
 * [Tam Coc and Hoa Lu full day tour from Hanoi](http://www.getyourguide.com/hanoi-l205/1-day-hoa-lu-tam-coc-tour-from-hanoi-t27339/) (beware - lots of tourists)
 
+<hr />
+
 ## <a name="halongbay"></a> Ha Long Bay
 
 ### Getting there
@@ -73,6 +70,21 @@
 ### Things to do
 * [Kayak tour with Cat Ba Ventures](http://www.tripadvisor.ca/Attraction_Review-g737051-d1368569-Reviews-Cat_Ba_Ventures-Cat_Ba.html) - $31 USD/person
 * [Cat Ba Island](http://www.lonelyplanet.com/vietnam/northeast-vietnam/cat-ba-island)
+
+<hr />
+
+## <a name="danang"></a> Da Nang
+
+### Getting there
+* Air: Da Nang International Airport
+* Train: Reunification Express
+
+### Things to do
+* Non Nuoc beach
+* Buddhist pagodas
+* [Marble Mountains](http://www.tripadvisor.ca/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang_Quang_Nam_Province.html)
+
+<hr />
 
 ## <a name="cantho"></a> Can Tho
 
