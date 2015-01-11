@@ -35,6 +35,20 @@
 
 ## <a name="hanoi"></a> Hanoi
 
+### Getting there
+* Air 
+
+### Places to stay
+* [Joseph's Hang Da](http://www.josephshangdahotel.com/) - ~$40/night
+* [Hanoi Elite Hotel](http://www.agoda.com/hanoi-elite-hotel/hotel/hanoi-vn.html) - ~$45/night
+
+### Things to do
+* [Cafe Giang](http://www.giangcafehanoi.com/) - try egg coffee
+* Bun Cha at Bun Cha, 1 Hang Manh Street
+* Ca Cha at Ca Cha Thang Long, 31 Duong Thanh Street
+* Banh Cuon at Banh Cuon Gia Truyen, 14 Pho Hang Ga Street
+* Bun Bo Nam Bo at Bun Bo Nam Bo, 67 Hang Dieu
+
 ## <a name="ninhbinh"></a> Ninh Binh
 ### Getting there
 * Bus: 2.5 hours from Hanoi, Giap Bat bus station
