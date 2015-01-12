@@ -3,7 +3,7 @@
 * [Phnom Penh](#phnompenh)
 * [Siem Reap](#siemreap)
 * [Angkor Wat](#angkorwat)
-* 
+
 ## <a name="phnompenh"></a> Phnom Penh
 
 ### Getting there
