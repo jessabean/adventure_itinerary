@@ -66,6 +66,8 @@
 
 ### Getting there
 * Bus: 3 hours from Hanoi to Halong City
+* My Dinh Bus Station in Hanoi to Halong ~$5 USD
+* Private car from Hanoi to Ha Long Bay ~$100 USD
 
 ### Things to do
 * [Kayak tour with Cat Ba Ventures](http://www.tripadvisor.ca/Attraction_Review-g737051-d1368569-Reviews-Cat_Ba_Ventures-Cat_Ba.html) - $31 USD/person
@@ -90,6 +92,10 @@
 
 ### Getting there
 * Bus: ~3.5-4hrs from HCMC
+* [Mai Linh Express bus lines](http://www.lonelyplanet.com/vietnam/transport/transportation-travel-services/mai-linh-express)
+
+### Places to stay
+* [Kim Tho Hotel](http://www.agoda.com/kim-tho-hotel/hotel/can-tho-vn.html)
 
 ### Things to do
 * [Cai Rang floating market](http://www.tripadvisor.com/Attraction_Review-g303942-d455150-Reviews-Cai_Rang_Floating_Market-Can_Tho_Mekong_Delta.html) - walk around city and find a boat tour to the market
