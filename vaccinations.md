@@ -11,7 +11,9 @@ According to the [CDC](http://wwwnc.cdc.gov/travel/)
   * polio vaccine
   * yearly flu shot
 
-## Southeast Asia: Vietnam, Cambodia, Laos, Brunei Darussalam, Singapore
+## Southeast Asia
+**Vietnam, Cambodia, Laos, Brunei Darussalam, Singapore**
+
 * Recommended
   * Hepatitis A
   * Typhoid
@@ -22,14 +24,20 @@ According to the [CDC](http://wwwnc.cdc.gov/travel/)
   * Hepatitis B 
   * Japanese encephalitis
   * Yellow fever (if arriving from country at risk--Africa, South America)
-  
-## East Asia: Korea, Japan
+
+<hr />  
+
+## East Asia
+** Korea, Japan**
+
 * Suggested, based on type of activity/length of stay
   * Hepatitis A (recommended for Korea)
   * Hepatitis B
   * Japanese encephalitis
   * Rabies (if exposed to bats)
   * Typhoid (recommended for Korea)
+
+<hr />
 
 ## Australia
 * Suggested
