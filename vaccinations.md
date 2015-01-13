@@ -28,7 +28,7 @@ According to the [CDC](http://wwwnc.cdc.gov/travel/)
 <hr />  
 
 ## East Asia
-** Korea, Japan**
+**Korea, Japan**
 
 * Suggested, based on type of activity/length of stay
   * Hepatitis A (recommended for Korea)
