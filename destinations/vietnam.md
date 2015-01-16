@@ -24,6 +24,17 @@
 
 ## <a name="hoian"></a> Hoi An
 
+### Getting there
+* 40km from Da Nang, can taxi or take hotel shuttle/bus
+
+### Things to do
+* [Red Bridge Cooking School](http://www.visithoian.com/redbridge/cookingschool.html)
+* [Explore Cam Kim by bike](http://www.tripadvisor.ca/ShowUserReviews-g298082-d2358478-r124803857-Hoi_An_Free_Day_Tours-Hoi_An_Quang_Nam_Province.html)
+* [Cham Island snorkeling](http://www.tripadvisor.ca/Attraction_Review-g298082-d1077858-Reviews-Cham_Island_Diving-Hoi_An_Quang_Nam_Province.html)
+* Miss Ly Cafeteria Restaurant - 22 Nguyễn Huệ, TP. Hội An, Vietnam
+* Eat cao lau
+* Silk lantern shop - Du Kien Thanh. 49 Le Loi St.
+
 <hr />
 
 ## <a name="hanoi"></a> Hanoi
