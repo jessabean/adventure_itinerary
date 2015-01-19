@@ -37,12 +37,6 @@ According to the [CDC](http://wwwnc.cdc.gov/travel/), routine vaccinations shoul
 
 <hr />
 
-## Australia
-* Suggested
-  * (see East Asia)
-
-<hr />
-
 ## What we ended up getting:
 * Tetanus booster
 * Typhoid
