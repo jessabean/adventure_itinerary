@@ -1,15 +1,13 @@
 # Vaccinations
 
-According to the [CDC](http://wwwnc.cdc.gov/travel/)
-
-* Routine vaccinations should be up to date: 
-  * MMR
-  * tetanus
-  * diptheria
-  * pertussis
-  * varicella (chickenpox)
-  * polio vaccine
-  * yearly flu shot
+According to the [CDC](http://wwwnc.cdc.gov/travel/), routine vaccinations should be up to date: 
+* MMR
+* tetanus
+* diptheria
+* pertussis
+* varicella (chickenpox)
+* polio vaccine
+* yearly flu shot
 
 ## Southeast Asia
 **Vietnam, Cambodia, Laos, Brunei Darussalam, Singapore**
@@ -42,3 +40,13 @@ According to the [CDC](http://wwwnc.cdc.gov/travel/)
 ## Australia
 * Suggested
   * (see East Asia)
+
+<hr />
+
+## What we ended up getting:
+* Tetanus booster
+* Typhoid
+* Twinrix (Hepatitis A + B)
+* Dukoral (oral vaccine, for traveler's diarrhea)
+* prescription for malarone--anti-malaria pills
+* prescription for Zithromax (azithromycin)--antibiotics, similar to Cipro
