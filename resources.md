@@ -12,3 +12,6 @@
 * [Seek New Travel Digital Nomad Packing List](http://www.seeknewtravel.com/the-complete-digital-nomad-packing-list/)
 * [Miss Jess Rose RTW Packing List](http://missjessrose.com/blog/rtw-packing-list)
 * [Her Packing List](http://herpackinglist.com/category/packing-lists/)
+
+## General
+* [Legal Nomads World Travel Resources](http://www.legalnomads.com/wds)
