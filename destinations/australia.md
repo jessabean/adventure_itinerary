@@ -9,7 +9,6 @@
 * [Paddington Markets](http://www.paddingtonmarkets.com.au/)
 * [Bondi Beach](http://www.lonelyplanet.com/australia/sydney/sights/beaches-islands-waterfronts/bondi-beach)
 * Fish market at Darling Harbour
-* 
 
 ## Blue Mountains region
 ### Things to do
