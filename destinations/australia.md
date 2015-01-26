@@ -1,7 +1,7 @@
 # Australia
 
-- [Sydney](#sydney)
-- [Newcastle](#newcastle)
+- [Sydney](#-sydney)
+- [Newcastle](#-newcastle)
 
 ## <a name="sydney"></a> Sydney
 ### Things to do
