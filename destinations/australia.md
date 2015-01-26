@@ -1,9 +1,10 @@
 # Australia
 
-- [Sydney](#-sydney)
-- [Newcastle](#-newcastle)
+- [Sydney](#sydney)
+- [Blue Mountains](#blue-mountains-region)
+- [Newcastle](#newcastle)
 
-## <a name="sydney"></a> Sydney
+## Sydney
 ### Things to do
 * [Royal Botanical Gardens](http://www.tripadvisor.com/Attraction_Review-g255060-d257464-Reviews-Royal_Botanic_Gardens-Sydney_New_South_Wales.html)
 * [Paddington Markets](http://www.paddingtonmarkets.com.au/)
