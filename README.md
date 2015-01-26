@@ -2,4 +2,4 @@
 
 We decided to pause our careers and travel to Asia for a while. Here's where we're going/where we went.
 
-Follow our travels at [Wandering Eldredges](http://wandering-eldredges.tumblr.com)
+Follow our travels at [Roaming Eldredges](http://roaming.eldredge.io)
