@@ -10,7 +10,7 @@
 * [Paddington Markets](http://www.paddingtonmarkets.com.au/)
 * [Bondi Beach](http://www.lonelyplanet.com/australia/sydney/sights/beaches-islands-waterfronts/bondi-beach)
 * Fish market at Darling Harbour
-
+* Sydney Harbour [Bridge Climb](http://www.bridgeclimb.com/)
 ## Blue Mountains region
 ### Things to do
 * [Echo Point Lookout](http://www.visitnsw.com/destinations/blue-mountains/katoomba-area/katoomba/attractions/echo-point-lookout-three-sisters) (2.5 hrs from Sydney, arrive early to avoid tour groups)
