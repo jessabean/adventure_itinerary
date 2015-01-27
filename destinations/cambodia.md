@@ -1,8 +1,22 @@
 # Cambodia
 
+* [Kampot](#kampot)
 * [Phnom Penh](#phnompenh)
 * [Siem Reap](#siemreap)
 * [Angkor Wat](#angkorwat)
+
+## <a name="kampot"></a> Kampot
+
+### Places to stay
+* [Green House](http://www.greenhousekampot.com/) - $20 USD/night for bungalow with private bathroom
+* [Magic Sponge Kampot](http://www.magicspongekampot.com/) - $15 USD/night for aircon double
+
+### Things to do
+* Day trip to Kep, can take tuk tuk
+* Paddle board on river
+* [Kampot survival guide](http://www.kampotsurvivalguide.com/) (lol animation)
+
+<hr />
 
 ## <a name="phnompenh"></a> Phnom Penh
 
