@@ -25,3 +25,4 @@
 * [GlobeTipping](http://www.globefamilyapps.com/globetipping.html)
 * [Google Translate](https://itunes.apple.com/us/app/google-translate/id414706506?mt=8)
 * [ICOON](https://itunes.apple.com/us/app/icoon-global-picture-dictionary/id294236771?mt=8)
+* [Atlas Obscura](http://www.atlasobscura.com/)
