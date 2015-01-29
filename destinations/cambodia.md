@@ -13,6 +13,7 @@
 
 ### Things to do
 * Day trip to Kep, can take tuk tuk
+* [Kep National Park](http://www.lonelyplanet.com/cambodia/south-coast/kep/sights/parks-gardens/kep-national-park)
 * Paddle board on river
 * [Kampot survival guide](http://www.kampotsurvivalguide.com/) (lol animation)
 
@@ -24,6 +25,16 @@
 * Bus: from HCMC/Saigon - [Mekong Express](http://catmekongexpress.com/schedule.html)
 * Bus: Air conditioned express bus, ~7hrs
 * Air: Vietnam Air, ~45min, $188 USD
+
+### Things to do
+
+* [Central Market](http://en.wikipedia.org/wiki/Central_Market,_Phnom_Penh)
+* [Independence Monument](http://en.wikipedia.org/wiki/Independence_Monument_%28Cambodia%29
+* [Choeung Ek - The Killing Fields](http://www.tripadvisor.com/Attraction_Review-g293940-d469300-Reviews-The_Killing_Fields_Choeung_Ek-Phnom_Penh.html)
+* [Tuol Sleng Genocide Museum](http://www.tripadvisor.ca/Attraction_Review-g293940-d324063-Reviews-Tuol_Sleng_Genocide_Museum-Phnom_Penh.html)
+* Hands 'n Feet Spa, run by [Daughters of Cambodia](http://daughtersofcambodia.org/)
+* [Russian Market](http://www.tripadvisor.com/Attraction_Review-g293940-d638459-Reviews-Russian_Market-Phnom_Penh.html)
+* [Monument Books](http://www.monument-books.com/)
 
 <hr />
 
