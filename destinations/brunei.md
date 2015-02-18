@@ -17,8 +17,11 @@
 
 ### Things to do
 * [Kampong Ayer/Water Village](http://en.wikipedia.org/wiki/Kampong_Ayer)
+* [Tamar Pasar Besar night market](http://www.tripadvisor.com/Travel-g293938-c136798/Bandar-Seri-Begawan:Brunei-Darussalam:Gadong.Shopping.And.Night.Market.html)
+* [Sultan Omar Ali Saifuddien Mosque](http://www.afar.com/places/sultan-omar-ali-saifuddien-mosque-bandar-seri-begawan?context=travel-guide&country=brunei)
 * [Jame'Asr Hassanil Bolkiah Mosque](http://www.lonelyplanet.com/brunei-darussalam/bandar-seri-begawan/sights/religious/jame-asr-hassanil-bolkiah-mosque)
 * [Royal Regalia Museum](http://www.lonelyplanet.com/brunei-darussalam/sights/museums-galleries/royal-regalia-museum/item-a-441470-id)
+* [Chop Jing Chew](https://plus.google.com/109731450187746753361/about?gl=us&hl=en) - try roti kuning or roti cucur
 
 <hr />
 
