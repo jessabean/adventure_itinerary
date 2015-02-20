@@ -51,3 +51,4 @@
 * [Royal Palace Museum](http://www.lonelyplanet.com/laos/northern-laos/luang-prabang/sights/museums-galleries/royal-palace-museum)
 * [Phu Si](http://www.lonelyplanet.com/laos/northern-laos/luang-prabang/sights/natural-landmarks/phu-si)
 * [Tamarind cooking school](http://www.tamarindlaos.com/cooking-school/)
+* [Kuang Si Falls](http://somanymiles.com/2013/05/how-to-get-to-kuang-si-waterfall-luang-prabang/)
