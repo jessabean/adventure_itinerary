@@ -19,6 +19,7 @@
 * [Saigon Opera House](http://www.tripadvisor.ca/Attraction_Review-g293925-d454974-Reviews-Saigon_Opera_House_Ho_Chi_Minh_Municipal_Theater-Ho_Chi_Minh_City.html)
 * [Saigon moped tour](http://www.tripadvisor.ca/Attraction_Review-g293925-d1977143-Reviews-Saigon_Unseen-Ho_Chi_Minh_City.html)
 * [War Remnants Museum](http://www.tripadvisor.ca/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)
+* Ho Tram Beach
  
 <hr />
 
