@@ -28,6 +28,10 @@
 ### Getting there
 * 40km from Da Nang, can taxi or take hotel shuttle/bus
 
+### Places to stay
+
+* [Hai Au Hotel](http://www.tripadvisor.com/Hotel_Review-g298082-d666600-Reviews-Hai_Au_Hotel-Hoi_An_Quang_Nam_Province.html)
+ 
 ### Things to do
 * [Red Bridge Cooking School](http://www.visithoian.com/redbridge/cookingschool.html)
 * [Explore Cam Kim by bike](http://www.tripadvisor.ca/ShowUserReviews-g298082-d2358478-r124803857-Hoi_An_Free_Day_Tours-Hoi_An_Quang_Nam_Province.html)
@@ -35,6 +39,9 @@
 * Miss Ly Cafeteria Restaurant - 22 Nguyễn Huệ, TP. Hội An, Vietnam
 * Eat cao lau
 * Silk lantern shop - Du Kien Thanh. 49 Le Loi St.
+* Banh mis at [Banh Mi Phuong](http://www.tripadvisor.com/Restaurant_Review-g298082-d2365673-Reviews-Banh_Mi_Phuong-Hoi_An_Quang_Nam_Province.html)
+* [The Moon Restaurant and Lounge](http://www.tripadvisor.com/Restaurant_Review-g298082-d1739708-Reviews-Moon_Restaurant_Lounge-Hoi_An_Quang_Nam_Province.html)
+* Full moon lantern festival
 
 <hr />
 
