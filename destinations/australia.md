@@ -11,8 +11,10 @@
 * [Bondi Beach](http://www.lonelyplanet.com/australia/sydney/sights/beaches-islands-waterfronts/bondi-beach)
 * Fish market at Darling Harbour
 * Sydney Harbour [Bridge Climb](http://www.bridgeclimb.com/)
+* [The Rocks Foodies Market](http://www.sydney.com/destinations/sydney/sydney-city/the-rocks/attractions/rocks-market)
+* [Razorhurst Bar Tour](http://www.bartours.com.au/tour-options/sydney-tours/razorhurst-tour/)
 
-## Blue Mountains region
+## Blue Mountains region (Katoomba)
 ### Things to do
 * [Echo Point Lookout](http://www.visitnsw.com/destinations/blue-mountains/katoomba-area/katoomba/attractions/echo-point-lookout-three-sisters) (2.5 hrs from Sydney, arrive early to avoid tour groups)
 * [Prince Henry Cliff Walk](http://www.nationalparks.nsw.gov.au/blue-mountains-national-park/prince-henry-cliff-walk/walking)
