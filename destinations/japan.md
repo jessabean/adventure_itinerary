@@ -14,6 +14,7 @@
 ### Places to stay
 
 * [APA Hotel](http://www.booking.com/hotel/jp/apa-ginza-kyobashi.en-gb.html)
+* [9 Hours Capsule Hotel](http://www.tripadvisor.com/Hotel_Review-g298564-d6028872-Reviews-9_Hours_Capsule_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html)
 
 ### Things to do
 
@@ -23,6 +24,7 @@
 * Tsukiji Fish Market
 * Harajuku on Sundays
 * [Kappabashi-dori](http://www.japan-guide.com/e/e3020.html)
+* [Shibuya Loft](http://www.yelp.com/biz/%E6%B8%8B%E8%B0%B7-%E3%83%AD%E3%83%95%E3%83%88-%E6%B8%8B%E8%B0%B7%E5%8C%BA)
 
 ## <a name="kyoto"></a> Kyoto
 
@@ -32,7 +34,16 @@
 
 ### Places to stay
 
+* [Shunkoin Temple](http://www.shunkoin.com/)
+
 ### Things to do
+
+* Arashiyama bamboo forest
+* [Nishiki market](http://www.japan-guide.com/e/e3931.html)
+* [En](http://www.teaceremonyen.com/) - tea ceremony experience
+* [Fushimi Inari](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha)
+* [Yamakazi whisky distillery](http://theyamazaki.jp/en/distillery/guide.html)
+* [Eat lots of food](http://www.followmefoodie.com/2014/02/follow-me-foodie-to-kyoto-japan-where-to-eat-in-kyoto/)
 
 ## <a name="osaka"></a> Osaka
 
