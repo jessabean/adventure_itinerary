@@ -14,7 +14,6 @@
 ### Places to stay
 
 * [APA Hotel](http://www.booking.com/hotel/jp/apa-ginza-kyobashi.en-gb.html)
-* [9 Hours Capsule Hotel](http://www.tripadvisor.com/Hotel_Review-g298564-d6028872-Reviews-9_Hours_Capsule_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html)
 
 ### Things to do
 
@@ -25,6 +24,8 @@
 * Harajuku on Sundays
 * [Kappabashi-dori](http://www.japan-guide.com/e/e3020.html)
 * [Shibuya Loft](http://www.yelp.com/biz/%E6%B8%8B%E8%B0%B7-%E3%83%AD%E3%83%95%E3%83%88-%E6%B8%8B%E8%B0%B7%E5%8C%BA)
+* Sake tasting at [Meishu Center](http://en.japantravel.com/view/tasting-sake-at-meishu-center-tokyo)
+* See a baseball game! Tokyo Dome
 
 ## <a name="kyoto"></a> Kyoto
 
@@ -35,6 +36,7 @@
 ### Places to stay
 
 * [Shunkoin Temple](http://www.shunkoin.com/)
+* [9 Hours Capsule Hotel](http://www.tripadvisor.com/Hotel_Review-g298564-d6028872-Reviews-9_Hours_Capsule_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html)
 
 ### Things to do
 
@@ -49,9 +51,15 @@
 
 ### Getting there
 
+* [Train](http://jprail.com/travel-informations/tips-for-japan-rail-pass/how-to-transfer-among-kyoto-osaka-and-kobe-compare-japan-railway-and-private-lines.html#How_to_choose_the_lines_and_trains_to_Kyoto_from_Osaka)
+ 
 ### Places to stay
 
 ### Things to do
+
+* Okonomiyaki at [Mizuno](http://www.tripadvisor.com/Restaurant_Review-g298566-d1664126-Reviews-Mizuno-Osaka_Osaka_Prefecture_Kinki.html)
+* Conveyor belt sushi at [Kura](http://www.willflyforfood.net/2014/06/01/kura-sushi-delicious-sushi-in-japan-for-just-%C2%A5100-1-a-plate/)
+* See a baseball game! Hanshin Tigers at Koshen Stadium
 
 ## Resources and Blog Posts
 
