@@ -33,7 +33,7 @@
 
 <hr />
 
-## <a name="#gyeongju"></a> Gyeongju
+## <a name="gyeongju"></a> Gyeongju
 
 ### Getting there
 
@@ -45,7 +45,7 @@
 
 <hr />
 
-## <a name="#busan"></a> Busan
+## <a name="busan"></a> Busan
 
 ### Getting there
 
