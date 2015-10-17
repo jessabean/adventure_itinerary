@@ -8,7 +8,7 @@
 
 ### Getting there
 
-* Air - Incheon Airport
+* Air - Incheon Airport, AREX train from Incheon to Seoul Station
 * KTX to Seoul from other cities
 
 ### Places to stay
@@ -26,6 +26,10 @@
 * Eat samgyetang at [Tosokchon](http://www.tripadvisor.com/Restaurant_Review-g294197-d1174982-Reviews-Tosokchon-Seoul.html)
 * Tea at [Moon Bird Only Thinks of the Moon](http://thesoulofseoul.net/2014/03/24/5894/)
 * [Dragon Hill Spa](http://www.tripadvisor.com/Attraction_Review-g294197-d1641304-Reviews-Dragonhill_Spa_Resort-Seoul.html)
+* [Kimchi Museum](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?cid=268153)
+* Pojangmachas in Itaewon
+* Kimhae Cherry blossom festival?
+* [The Vault Escape Room](http://www.myseoulsearching.com/2015/06/the-vault-escape-rooms-hongdae.html)
 
 <hr />
 
@@ -54,3 +58,5 @@
 ## Resources and Blog Posts
 
 * [Smartphone apps you need while in Korea](http://zannahinkorea.blogspot.com/2014/07/smartphone-apps-you-need-while-in-korea.html)
+* Rent a portable wifi device and have delivered to hotel via [WiFi Korea](http://wifi-korea.com/Referral.html)
+* Get a [T-Money card](http://english.visitkorea.or.kr/enu/TR/TR_EN_5_4.jsp) in Seoul
