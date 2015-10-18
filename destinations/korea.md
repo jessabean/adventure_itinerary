@@ -1,6 +1,7 @@
 # South Korea
 
 * [Seoul](#seoul)
+* [Seoraksan](#seoraksan)
 * [Gyeongju](#gyeongju)
 * [Busan](#busan)
 
@@ -30,6 +31,27 @@
 * Pojangmachas in Itaewon
 * Kimhae Cherry blossom festival?
 * [The Vault Escape Room](http://www.myseoulsearching.com/2015/06/the-vault-escape-rooms-hongdae.html)
+
+<hr />
+
+## <a name="seoraksan"></a> Seoraksan
+
+### Getting there
+
+* Gangbyeon Station > Exit #4 > bus terminal > [Sokcho Intercity Bus Terminal](http://www.sitdowndisco.com/seoul-to-sokcho-seoraksan/) (~$16)
+
+### Places to stay
+
+* [Sorak Park Hotel](http://www.tripadvisor.com/Hotel_Review-g317129-d455989-Reviews-Sorak_Park_Hotel-Sokcho_Gangwon_do.html)
+* [Mr. Egg Sokcho Guesthouse](http://www.tripadvisor.com/Hotel_Review-g317129-d7074531-Reviews-Mr_Egg_Sokcho_Guesthouse-Sokcho_Gangwon_do.html)
+* [Spa Pension Basso](http://www.agoda.com/spa-pension-basso/hotel/sokcho-si-kr.html)
+* [Marine Guesthouse](http://www.agoda.com/marine-guesthouse/hotel/sokcho-si-kr.html)
+
+### Things to do
+
+* [Seoraksan courses](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_6.jsp?cid=257506)
+* [Daecheongbong Peak](https://klimbingkoreanmountains.wordpress.com/category/hiking-expeditions/south-korea/national-parks/seoraksan-national-park-%EC%84%A4%EC%95%85%EC%82%B0/)
+
 
 <hr />
 
