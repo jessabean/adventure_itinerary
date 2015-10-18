@@ -2,10 +2,11 @@
 
 * [Seoul](#seoul)
 * [Seoraksan](#seoraksan)
+* [Chungju](#chungju)
 * [Gyeongju](#gyeongju)
 * [Busan](#busan)
 
-## <a name="seoul"></a> Seoul
+## <a name="seoul"></a>Seoul
 
 ### Getting there
 
@@ -31,10 +32,11 @@
 * Pojangmachas in Itaewon
 * Kimhae Cherry blossom festival?
 * [The Vault Escape Room](http://www.myseoulsearching.com/2015/06/the-vault-escape-rooms-hongdae.html)
+* [Children's Grand Park](http://www.tripadvisor.com/Attraction_Review-g294197-d592490-Reviews-Seoul_Children_s_Grand_Park-Seoul.html)
 
 <hr />
 
-## <a name="seoraksan"></a> Seoraksan
+## <a name="seoraksan"></a>Seoraksan
 
 ### Getting there
 
@@ -52,10 +54,31 @@
 * [Seoraksan courses](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_6.jsp?cid=257506)
 * [Daecheongbong Peak](https://klimbingkoreanmountains.wordpress.com/category/hiking-expeditions/south-korea/national-parks/seoraksan-national-park-%EC%84%A4%EC%95%85%EC%82%B0/)
 
+<hr />
+
+## <a name="chungju"></a>Chungju
+
+### Getting there
+
+* Bus - Cheongju Express Bus Terminal
+
+### Places to stay
+
+* [Suanbo Saipan Spa Hotel](http://www.tripadvisor.com/Hotel_Review-g1047895-d2150823-Reviews-Suanbo_Saipan_Spa_Hotel-Chungju_Chungcheongbuk_do.html)
+* [Goodstay Suanbo Hot Spring Land Hotel](http://www.agoda.com/goodstay-suanbo-hot-spring-land-hotel/hotel/chungju-si-kr.html)
+
+### Things to do
+
+* [Woraksan National Park](https://en.wikipedia.org/wiki/Woraksan_National_Park)
+* [Suanbo Hotspring](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?cid=264574)
+* [WWOOF Korea](http://wwoofkorea.org/home-english/)
+* Take ferry to Chungjuho Lake
+* Eat apples, which Chungju is famous for
+* Eat porridge at Bonjuk or Damjuk
 
 <hr />
 
-## <a name="gyeongju"></a> Gyeongju
+## <a name="gyeongju"></a>Gyeongju
 
 ### Getting there
 
@@ -67,13 +90,16 @@
 
 <hr />
 
-## <a name="busan"></a> Busan
+## <a name="busan"></a>Busan
 
 ### Getting there
 
 ### Places to stay
 
 ### Things to do
+
+* [Shinsegae department store](http://www.tripadvisor.com/Attraction_Review-g297884-d2344546-Reviews-Shinsegae_Dept_Store_Centum_City-Busan.html)
+* Hang at a [jimjilbang](http://cityawesome.com/busan1/2011/05/songdo-haesoopia-spa-jjimjilbang/)
 
 <hr />
 
@@ -82,3 +108,6 @@
 * [Smartphone apps you need while in Korea](http://zannahinkorea.blogspot.com/2014/07/smartphone-apps-you-need-while-in-korea.html)
 * Rent a portable wifi device and have delivered to hotel via [WiFi Korea](http://wifi-korea.com/Referral.html)
 * Get a [T-Money card](http://english.visitkorea.or.kr/enu/TR/TR_EN_5_4.jsp) in Seoul
+* [Taking the Ferry Between South Korea and Japan: A Survival Guide](http://tripologist.com/asia/how-to-take-the-ferry-between-south-korea-and-japan/)
+* [Naver Map app](https://itunes.apple.com/us/app/neibeo-jido-naver-map/id311867728?mt=8)
+* [Adventure Korea tours](http://www.adventurekorea.com/)
