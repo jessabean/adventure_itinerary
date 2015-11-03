@@ -15,3 +15,5 @@
 * [Ku De Ta](http://www.tripadvisor.com/Restaurant_Review-g294265-d1937704-Reviews-KU_DE_TA_Restaurant-Singapore.html) - Sunday brunch
 * roti prata at the hawker stalls (try the stingray version at [Lao Pa Sat](http://www.tripadvisor.com/Attraction_Review-g294265-d386879-Reviews-Lau_Pa_Sat_Festival_Pavilion-Singapore.html))
 * [Blu Jaz Cafe](http://www.yelp.com/biz/blu-jaz-cafe-singapore) - cool bar
+* [Katong laksa](http://sethlui.com/best-laksa-singapore/) at Janggut Laksa
+* [Little India](http://wikitravel.org/en/Singapore/Little_India)
