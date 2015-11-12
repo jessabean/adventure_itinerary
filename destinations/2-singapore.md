@@ -1,4 +1,9 @@
 # Singapore
+### Getting there
+* Air - Sydney to Singapore via Qantas or Singapore Airlines
+
+### Places to stay
+* AirBnB
 
 ### Things to do
 * [Singapore Zoo](http://www.zoo.com.sg/)
