@@ -13,6 +13,7 @@
 * [Marina Bay Sands](http://en.wikipedia.org/wiki/Marina_Bay_Sands)
 * [Jubilee Walk](https://www.singapore50.sg/en/SG50/WhatsOn/2015/Launch%20of%20The%20Jubilee%20Walk.aspx)
 * [National Gallery Singapore](https://www.nationalgallery.sg/)
+* [River Safari](http://www.riversafari.com.sg)
 
 ### Foodz
 * [Paradise Dynasty](http://www.yelp.com/biz/paradise-dynasty-singapore) - for xiaolongbao
