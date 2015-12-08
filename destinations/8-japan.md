@@ -26,6 +26,7 @@
 * [Shibuya Loft](http://www.yelp.com/biz/%E6%B8%8B%E8%B0%B7-%E3%83%AD%E3%83%95%E3%83%88-%E6%B8%8B%E8%B0%B7%E5%8C%BA)
 * Sake tasting at [Meishu Center](http://en.japantravel.com/view/tasting-sake-at-meishu-center-tokyo)
 * See a baseball game! Tokyo Dome
+* [Team-lab](http://www.team-lab.net/en/exhibition) exhibitions
 
 ## <a name="kyoto"></a> Kyoto
 
