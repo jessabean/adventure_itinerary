@@ -27,6 +27,7 @@
 * Sake tasting at [Meishu Center](http://en.japantravel.com/view/tasting-sake-at-meishu-center-tokyo)
 * See a baseball game! Tokyo Dome
 * [Team-lab](http://www.team-lab.net/en/exhibition) exhibitions
+* Ramen at [Usagi](http://www.gogobot.com/usagi-ramen-%E3%81%86%E3%81%95%E3%81%8E%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%EF%BC%89-tokyo-restaurant)
 
 ## <a name="kyoto"></a> Kyoto
 
