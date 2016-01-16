@@ -1,7 +1,31 @@
 # Laos
 
+* [Pakse](#pakse)
+* Tha Khaek](#thakhek)
 * [Vientiane](#vientiane)
 * [Luang Prabang](#luang)
+
+## <a name="pakse"></a> Pakse
+
+### Things to do
+
+* Green Discovery ziplining adventure
+* Khmer ruins of Wat Phu (Champsak)
+
+### Getting there
+
+* 4.5 hour bus to Tha Khaek
+
+## <a name="thakhek"></a>Tha Khaek / Thakhek
+
+### Things to do
+
+* Tham Kong Lo: kayaking in Kong Lor cave
+
+### Getting there
+
+* 6 hours bus to Vientiane
+* 4.5 hours bus to Pakse
 
 ## <a name="vientiane"></a> Vientiane
 
