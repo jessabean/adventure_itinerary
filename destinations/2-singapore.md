@@ -1,25 +1,14 @@
 # Singapore
 ### Getting there
-* Air - Sydney to Singapore via Qantas or Singapore Airlines
+* Singapore Airlines: Sydney to Singapore, ~8 hours 
 
-### Places to stay
-* AirBnB
+### Where we stayed
+* [Riverview Hotel](http://www.tripadvisor.com/Hotel_Review-g294265-d306107-Reviews-Riverview_Hotel_Singapore-Singapore.html), ~$120/night
 
-### Things to do
-* [Singapore Zoo](http://www.zoo.com.sg/)
-* [Singapore Botanic Gardens](http://www.tripadvisor.com/Attraction_Review-g294265-d310900-Reviews-Singapore_Botanic_Gardens-Singapore.html)
-* [Bugis Street](http://en.wikipedia.org/wiki/Bugis_Street) for fresh fruit juice right in front of the bus stop
-* [Orchard Road](http://en.wikipedia.org/wiki/Orchard_Road) - crazy shopping
+### We recommend
 * [Marina Bay Sands](http://en.wikipedia.org/wiki/Marina_Bay_Sands)
-* [Jubilee Walk](https://www.singapore50.sg/en/SG50/WhatsOn/2015/Launch%20of%20The%20Jubilee%20Walk.aspx)
-* [National Gallery Singapore](https://www.nationalgallery.sg/)
-* [River Safari](http://www.riversafari.com.sg)
-
-### Foodz
-* [Paradise Dynasty](http://www.yelp.com/biz/paradise-dynasty-singapore) - for xiaolongbao
-* [Din Tai Fung](http://www.yelp.com/biz/din-tai-fung-singapore-5) - for xiaolongbao
-* [Ku De Ta](http://www.tripadvisor.com/Restaurant_Review-g294265-d1937704-Reviews-KU_DE_TA_Restaurant-Singapore.html) - Sunday brunch
-* roti prata at the hawker stalls (try the stingray version at [Lao Pa Sat](http://www.tripadvisor.com/Attraction_Review-g294265-d386879-Reviews-Lau_Pa_Sat_Festival_Pavilion-Singapore.html))
-* [Blu Jaz Cafe](http://www.yelp.com/biz/blu-jaz-cafe-singapore) - cool bar
-* [Katong laksa](http://sethlui.com/best-laksa-singapore/) at Janggut Laksa
+* Chicken rice at [Tian Tian Hainanese Chicken](http://www.tripadvisor.com/Restaurant_Review-g294265-d1034236-Reviews-Tian_Tian_Hainanese_Chicken_Rice-Singapore.html)
+* BBQ stingray at [Lao Pa Sat](http://www.tripadvisor.com/Attraction_Review-g294265-d386879-Reviews-Lau_Pa_Sat_Festival_Pavilion-Singapore.html)
+* Chicken wings at [363 Katong Laksa](http://www.yelp.com.sg/biz/363-katong-laksa-singapore)
+* Cocktails and awesome bartenders at [Bitters & Love](http://www.tripadvisor.com/Restaurant_Review-g294265-d4156535-Reviews-Bitters_Love-Singapore.html)
 * [Little India](http://wikitravel.org/en/Singapore/Little_India)
