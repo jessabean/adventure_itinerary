@@ -1,7 +1,7 @@
 # Vietnam
 * [Ho Chi Minh/Saigon](#saigon)
-* [Hoi An](#hoian)
 * [Hanoi](#hanoi)
+* [Hoi An](#hoian)
 * [Ninh Binh](#ninhbinh)
 * [Ha Long Bay](#halongbay)
 * [Da Nang](#danang)
@@ -9,18 +9,48 @@
  
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
 
-### Places to stay
-* [Hong Han Hotel](http://www.tripadvisor.com/Hotel_Review-g293925-d633138-Reviews-Hong_Han_Hotel-Ho_Chi_Minh_City.html) - from $12 USD/night
-* [Blue River Hotel](http://www.tripadvisor.com/Hotel_Review-g293925-d676046-Reviews-Blue_River_Hotel-Ho_Chi_Minh_City.html) - from $12 USD/night
+### Getting there
 
-### Things to do
-* [Cat Moc Spa](http://www.tripadvisor.com/Attraction_Review-g293925-d2726268-Reviews-Cat_Moc_Spa-Ho_Chi_Minh_City.html)
+* Qatar Airways: Singapore to Ho Chi Minh City
+
+### Where we stayed
+* [Blue River Hotel](http://www.tripadvisor.com/Hotel_Review-g293925-d676046-Reviews-Blue_River_Hotel-Ho_Chi_Minh_City.html), ~$22 USD/night
+
+### We recommend
 * [Cu Chi Tunnels](http://www.tripadvisor.com/Attraction_Review-g293925-d2005826-Reviews-Cu_Chi_Tunnels-Ho_Chi_Minh_City.html)
-* [Saigon Opera House](http://www.tripadvisor.com/Attraction_Review-g293925-d454974-Reviews-Saigon_Opera_House_Ho_Chi_Minh_Municipal_Theater-Ho_Chi_Minh_City.html)
-* [Saigon moped tour](http://www.tripadvisor.com/Attraction_Review-g293925-d1977143-Reviews-Saigon_Unseen-Ho_Chi_Minh_City.html)
-* [War Remnants Museum](http://www.tripadvisor.com/Attraction_Review-g293925-d311103-Reviews-War_Remnants_Museum-Ho_Chi_Minh_City.html)
-* Ho Tram Beach
- 
+* Grilled octopus at [BBQ Lúa](http://www.tripadvisor.com/Restaurant_Review-g293925-d8613900-Reviews-BBQ_Lua-Ho_Chi_Minh_City.html)
+* Pho at [Pho Quynh](http://www.tripadvisor.com/Restaurant_Review-g293925-d2492572-Reviews-Pho_Quynh-Ho_Chi_Minh_City.html)
+* Breakfast or coffee at [Chi's Cafe](http://www.tripadvisor.com/Restaurant_Review-g293925-d4793370-Reviews-Chi_s_Cafe-Ho_Chi_Minh_City.html)
+* Beers and music at [Thi Bar](http://www.tripadvisor.com/Attraction_Review-g293925-d8432743-Reviews-Thi_Bar-Ho_Chi_Minh_City.html)
+* Cocktails on the rooftop at [OMG Rooftop Bar](http://www.tripadvisor.com/Restaurant_Review-g293925-d6103947-Reviews-OMG-Ho_Chi_Minh_City.html)
+
+<hr />
+
+## <a name="hanoi"></a> Hanoi
+
+### Getting there
+* Vietnam Air: Luang Prabang to Hanoi
+
+### Where we stayed
+* [Skyline Hotel](http://www.tripadvisor.com/Hotel_Review-g293924-d7619752-Reviews-Skyline_Hotel-Hanoi.html) - ~$37 USD/night
+
+### We recommend
+* Walk around Hoan Kiem Lake
+* Massage and/or facial at [Midori Spa](http://www.tripadvisor.com/Attraction_Review-g293924-d8262801-Reviews-Midori_Spa-Hanoi.html) - ~$37 for 2 people at 60 minutes
+* [Ngac Son Temple](http://www.tripadvisor.com/Attraction_Review-g293924-d311074-Reviews-Ngoc_Son_Temple-Hanoi.html) - 30,000 VND entrance fee
+* [Temple of Literature and National University](http://www.tripadvisor.com/Attraction_Review-g293924-d311083-Reviews-Temple_of_Literature_National_University-Hanoi.html) - 30,000 VND entrance fee
+* [Museum of History](http://www.tripadvisor.com/Attraction_Review-g293924-d311071-Reviews-Museum_of_History_Bao_Tang_Lich_Su-Hanoi.html) - 40,000 VND entrance fee
+* [Vietnamese Women's Museum](http://www.tripadvisor.com/Attraction_Review-g293924-d447354-Reviews-Vietnamese_Women_s_Museum-Hanoi.html) - 30,000 VND entrance fee
+* Date night at [Madame Hien](http://www.tripadvisor.com/Restaurant_Review-g293924-d1644452-Reviews-Madame_Hien_Restaurant-Hanoi.html)
+* Banh mi at [Banh Mi 25](http://www.tripadvisor.com/Restaurant_Review-g293924-d7321100-Reviews-Banh_Mi_25-Hanoi.html)
+* Egg coffee at [Cafe Giang](http://www.giangcafehanoi.com/)
+* Sticky rice at [Xoi Yen](http://www.tripadvisor.com/Restaurant_Review-g293924-d2054307-Reviews-Xoi_Yen-Hanoi.html)
+* Shopping for souvenirs, fabric at [Craft Link](http://www.tripadvisor.com/Attraction_Review-g293924-d541777-Reviews-Craft_Link-Hanoi.html)
+* Bun Cha at Bun Cha, 1 Hang Manh Street
+* Ca Cha at Ca Cha Thang Long, 31 Duong Thanh Street
+* Banh Cuon at Banh Cuon Gia Truyen, 14 Pho Hang Ga Street
+* Bun Bo Nam Bo at Bun Bo Nam Bo, 67 Hang Dieu
+
 <hr />
 
 ## <a name="hoian"></a> Hoi An
@@ -42,24 +72,6 @@
 * Banh mis at [Banh Mi Phuong](http://www.tripadvisor.com/Restaurant_Review-g298082-d2365673-Reviews-Banh_Mi_Phuong-Hoi_An_Quang_Nam_Province.html)
 * [The Moon Restaurant and Lounge](http://www.tripadvisor.com/Restaurant_Review-g298082-d1739708-Reviews-Moon_Restaurant_Lounge-Hoi_An_Quang_Nam_Province.html)
 * Full moon lantern festival
-
-<hr />
-
-## <a name="hanoi"></a> Hanoi
-
-### Getting there
-* Air 
-
-### Places to stay
-* [Joseph's Hang Da](http://www.josephshangdahotel.com/) - ~$40/night
-* [Hanoi Elite Hotel](http://www.agoda.com/hanoi-elite-hotel/hotel/hanoi-vn.html) - ~$45/night
-
-### Things to do
-* [Cafe Giang](http://www.giangcafehanoi.com/) - try egg coffee
-* Bun Cha at Bun Cha, 1 Hang Manh Street
-* Ca Cha at Ca Cha Thang Long, 31 Duong Thanh Street
-* Banh Cuon at Banh Cuon Gia Truyen, 14 Pho Hang Ga Street
-* Bun Bo Nam Bo at Bun Bo Nam Bo, 67 Hang Dieu
 
 <hr />
 
