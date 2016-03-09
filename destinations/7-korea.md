@@ -94,12 +94,20 @@
 
 ### Getting there
 
+* KTX: Seoul to Busan
+
 ### Places to stay
 
 ### Things to do
 
 * [Shinsegae department store](http://www.tripadvisor.com/Attraction_Review-g297884-d2344546-Reviews-Shinsegae_Dept_Store_Centum_City-Busan.html)
 * Hang at a [jimjilbang](http://cityawesome.com/busan1/2011/05/songdo-haesoopia-spa-jjimjilbang/)
+* [Old Record Bar](http://cityawesome.com/busan1/2012/03/old-record-bar-seomyeon/) in Seomyeon
+* Stamp treasure hunt in [Gamcheon Culture Village](http://www.tripadvisor.com/Attraction_Review-g297884-d3901349-Reviews-Gamcheon_Culture_Village-Busan.html)
+* [Jagalchi Market](http://www.tripadvisor.com/Attraction_Review-g297884-d1372972-Reviews-Jagalchi_Market-Busan.html)
+* [Taejongdae Park](http://www.tripadvisor.com/Attraction_Review-g297884-d1552284-Reviews-Taejongdae-Busan.html)
+* Lotte Giants baseball game
+* [Slice of Life Pizza](https://www.facebook.com/pizzeriasol/) for when the pizza craving becomes too much
 
 <hr />
 
