@@ -2,18 +2,18 @@
 
 * [Tokyo](#tokyo)
 * [Kyoto](#kyoto)
-* [Osaka](#osaka)
+* [Hiroshima](#hiroshima)
 
 ## <a name="tokyo"></a> Tokyo
 
 ### Getting there
 
-* Ferry from Busan to Fukuoka (3 hours), train from Fukuoka (Hakata station) to Tokyo (6 hours)
 * Fly into Narita Airport
 
 ### Places to stay
 
 * [APA Hotel](http://www.booking.com/hotel/jp/apa-ginza-kyobashi.en-gb.html)
+* AirBnB
 
 ### Things to do
 
@@ -37,8 +37,8 @@
 
 ### Places to stay
 
-* [Shunkoin Temple](http://www.shunkoin.com/)
-* [9 Hours Capsule Hotel](http://www.tripadvisor.com/Hotel_Review-g298564-d6028872-Reviews-9_Hours_Capsule_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html)
+* [APA Hotel Kyoto-Eki-Horikawadori](https://www.agoda.com/apa-hotel-kyoto-eki-horikawadori/hotel/kyoto-jp.html) ~$118/night
+* [Smile Hotel](https://www.agoda.com/smile-hotel-kyoto-shijo/hotel/kyoto-jp.html) ~$130/night
 
 ### Things to do
 
@@ -48,20 +48,30 @@
 * [Fushimi Inari](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha)
 * [Yamakazi whisky distillery](http://theyamazaki.jp/en/distillery/guide.html)
 * [Eat lots of food](http://www.followmefoodie.com/2014/02/follow-me-foodie-to-kyoto-japan-where-to-eat-in-kyoto/)
+* Day trip to Osaka:
+ * Okonomiyaki at [Mizuno](http://www.tripadvisor.com/Restaurant_Review-g298566-d1664126-Reviews-Mizuno-Osaka_Osaka_Prefecture_Kinki.html)
+ * Conveyor belt sushi at [Kura](http://www.willflyforfood.net/2014/06/01/kura-sushi-delicious-sushi-in-japan-for-just-%C2%A5100-1-a-plate/)
+* Day trip to Nara
 
-## <a name="osaka"></a> Osaka
+## <a name="hiroshima"></a> Hiroshima
 
 ### Getting there
 
-* [Train](http://jprail.com/travel-informations/tips-for-japan-rail-pass/how-to-transfer-among-kyoto-osaka-and-kobe-compare-japan-railway-and-private-lines.html#How_to_choose_the_lines_and_trains_to_Kyoto_from_Osaka)
+* Train - Shinkansen from Kyoto Station (only Hikari, Sakura, and Kodama covered by JR Pass)
  
 ### Places to stay
 
 ### Things to do
 
-* Okonomiyaki at [Mizuno](http://www.tripadvisor.com/Restaurant_Review-g298566-d1664126-Reviews-Mizuno-Osaka_Osaka_Prefecture_Kinki.html)
-* Conveyor belt sushi at [Kura](http://www.willflyforfood.net/2014/06/01/kura-sushi-delicious-sushi-in-japan-for-just-%C2%A5100-1-a-plate/)
-* See a baseball game! Hanshin Tigers at Koshen Stadium
+* Peace Memorial Museum and Peace Park
+* JR Pass covers the [Hiroshima Sightseeing Loop Bus](https://www.chugoku-jrbus.co.jp/teikan/meipurupu/en/)
+* [Okunoshima](http://www.businessinsider.com/okunoshima-rabbit-island) (Bunny Island)
+* Day trip to Miyajima:
+ * Take local train from Miyajima-guchi and then catch ferry to Miyajima Island (covered by JR Pass)
+ * See the Great Torii
+ * Ometesando Street for souvenir shopping
+ * Hike on Mt. Misen
+ * Daisho-In Temple
 
 ## Resources and Blog Posts
 
