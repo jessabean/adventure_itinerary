@@ -12,7 +12,6 @@
 
 ### Places to stay
 
-* [APA Hotel](http://www.booking.com/hotel/jp/apa-ginza-kyobashi.en-gb.html)
 * AirBnB
 
 ### Things to do
@@ -33,7 +32,7 @@
 
 ### Getting there
 
-* Train to Kyoto station
+* Shinkansen from Tokyo Station to Kyoto Station
 
 ### Places to stay
 
@@ -52,6 +51,9 @@
  * Okonomiyaki at [Mizuno](http://www.tripadvisor.com/Restaurant_Review-g298566-d1664126-Reviews-Mizuno-Osaka_Osaka_Prefecture_Kinki.html)
  * Conveyor belt sushi at [Kura](http://www.willflyforfood.net/2014/06/01/kura-sushi-delicious-sushi-in-japan-for-just-%C2%A5100-1-a-plate/)
 * Day trip to Nara
+ * Nara Park and deer
+ * Todai-ji Temple
+ * [Isui-en Garden](http://www.insidekyoto.com/things-to-do-in-nara#isui-en-garden)
 
 ## <a name="hiroshima"></a> Hiroshima
 
@@ -60,6 +62,8 @@
 * Train - Shinkansen from Kyoto Station (only Hikari, Sakura, and Kodama covered by JR Pass)
  
 ### Places to stay
+* [Sheraton Hiroshima](https://www.agoda.com/sheraton-hiroshima-hotel/hotel/hiroshima-jp.html) ~$137/night
+* [Mitsui Garden Hotel Hiroshima](https://www.agoda.com/mitsui-garden-hotel-hiroshima/hotel/hiroshima-jp.html) ~$84/night
 
 ### Things to do
 
