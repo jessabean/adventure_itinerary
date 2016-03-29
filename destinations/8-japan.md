@@ -19,14 +19,15 @@
 * [Thunder Dolphin](https://en.wikipedia.org/wiki/Thunder_Dolphin)
 * [Robot Restaurant](http://www.kyuhoshi.com/2014/09/21/robot-restaurant-in-shinjuku-tokyo/)
 * [Ghibli Museum](http://www.ghibli-museum.jp/en/)
-* Tsukiji Fish Market
+* Tsukiji Fish Market, sushi at Dai or Daiwa
 * Harajuku on Sundays
-* [Kappabashi-dori](http://www.japan-guide.com/e/e3020.html)
-* [Shibuya Loft](http://www.yelp.com/biz/%E6%B8%8B%E8%B0%B7-%E3%83%AD%E3%83%95%E3%83%88-%E6%B8%8B%E8%B0%B7%E5%8C%BA)
+* Souvenir shopping at [Shibuya Loft](http://www.yelp.com/biz/%E6%B8%8B%E8%B0%B7-%E3%83%AD%E3%83%95%E3%83%88-%E6%B8%8B%E8%B0%B7%E5%8C%BA)
 * Sake tasting at [Meishu Center](http://en.japantravel.com/view/tasting-sake-at-meishu-center-tokyo)
-* See a baseball game! Tokyo Dome
+* See a [baseball game](https://www.tokyo-dome.co.jp/e/dome/schedule/)!
+* Shop for stickers at [B-side Label](https://uk2tokyo.wordpress.com/2014/07/30/b-side-label/)
 * [Team-lab](http://www.team-lab.net/en/exhibition) exhibitions
 * Ramen at [Usagi](http://www.gogobot.com/usagi-ramen-%E3%81%86%E3%81%95%E3%81%8E%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%EF%BC%89-tokyo-restaurant)
+* Tasting menu at [Den](http://www.jimbochoden.com/english/)
 
 ## <a name="kyoto"></a> Kyoto
 
@@ -50,6 +51,7 @@
 * Day trip to Osaka:
  * Okonomiyaki at [Mizuno](http://www.tripadvisor.com/Restaurant_Review-g298566-d1664126-Reviews-Mizuno-Osaka_Osaka_Prefecture_Kinki.html)
  * Conveyor belt sushi at [Kura](http://www.willflyforfood.net/2014/06/01/kura-sushi-delicious-sushi-in-japan-for-just-%C2%A5100-1-a-plate/)
+ * Cooking class at [Eat Osaka](http://www.eatosaka.com/)
 * Day trip to Nara
  * Nara Park and deer
  * Todai-ji Temple
