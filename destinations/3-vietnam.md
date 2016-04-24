@@ -37,19 +37,17 @@
 ### We recommend
 * Walk around Hoan Kiem Lake
 * Massage and/or facial at [Midori Spa](http://www.tripadvisor.com/Attraction_Review-g293924-d8262801-Reviews-Midori_Spa-Hanoi.html) - ~$37 for 2 people at 60 minutes
+* Foot massage at [SF Spa](https://www.tripadvisor.com/Attraction_Review-g293924-d1383033-Reviews-SF_Spa-Hanoi.html) - ~$30 for 2 people
 * [Ngac Son Temple](http://www.tripadvisor.com/Attraction_Review-g293924-d311074-Reviews-Ngoc_Son_Temple-Hanoi.html) - 30,000 VND entrance fee
 * [Temple of Literature and National University](http://www.tripadvisor.com/Attraction_Review-g293924-d311083-Reviews-Temple_of_Literature_National_University-Hanoi.html) - 30,000 VND entrance fee
 * [Museum of History](http://www.tripadvisor.com/Attraction_Review-g293924-d311071-Reviews-Museum_of_History_Bao_Tang_Lich_Su-Hanoi.html) - 40,000 VND entrance fee
 * [Vietnamese Women's Museum](http://www.tripadvisor.com/Attraction_Review-g293924-d447354-Reviews-Vietnamese_Women_s_Museum-Hanoi.html) - 30,000 VND entrance fee
+* Shopping for souvenirs and fabric at [Craft Link](http://www.tripadvisor.com/Attraction_Review-g293924-d541777-Reviews-Craft_Link-Hanoi.html)
 * Date night at [Madame Hien](http://www.tripadvisor.com/Restaurant_Review-g293924-d1644452-Reviews-Madame_Hien_Restaurant-Hanoi.html)
 * Banh mi at [Banh Mi 25](http://www.tripadvisor.com/Restaurant_Review-g293924-d7321100-Reviews-Banh_Mi_25-Hanoi.html)
 * Egg coffee at [Cafe Giang](http://www.giangcafehanoi.com/)
 * Sticky rice at [Xoi Yen](http://www.tripadvisor.com/Restaurant_Review-g293924-d2054307-Reviews-Xoi_Yen-Hanoi.html)
-* Shopping for souvenirs, fabric at [Craft Link](http://www.tripadvisor.com/Attraction_Review-g293924-d541777-Reviews-Craft_Link-Hanoi.html)
-* Bun Cha at Bun Cha, 1 Hang Manh Street
-* Ca Cha at Ca Cha Thang Long, 31 Duong Thanh Street
-* Banh Cuon at Banh Cuon Gia Truyen, 14 Pho Hang Ga Street
-* Bun Bo Nam Bo at Bun Bo Nam Bo, 67 Hang Dieu
+* Pho bo at [Pho Suong](https://www.tripadvisor.com/Restaurant_Review-g293924-d5114068-Reviews-Pho_Suong-Hanoi.html)
 
 <hr />
 
