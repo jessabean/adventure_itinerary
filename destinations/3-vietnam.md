@@ -2,10 +2,10 @@
 * [Ho Chi Minh/Saigon](#saigon)
 * [Hanoi](#hanoi)
 * [Hoi An](#hoian)
-* [Ninh Binh](#ninhbinh)
 * [Ha Long Bay](#halongbay)
+* [Hue](#hue)
 * [Da Nang](#danang)
-* [Can Tho](#cantho)
+* [Sapa](#sapa)
  
 ## <a name="saigon"></a> Ho Chi Minh City/Saigon
 
@@ -56,16 +56,24 @@
 ### Getting there
 * 40km from Da Nang, can taxi or take hotel shuttle/bus
 
-### Places to stay
+### Where we stayed
 
 * [Hai Au Hotel](http://www.tripadvisor.com/Hotel_Review-g298082-d666600-Reviews-Hai_Au_Hotel-Hoi_An_Quang_Nam_Province.html)
  
-### Things to do
+### We recommend
+* Cao lau at Central Market, stall 34
+* Cao lau and mi quang at [Ong Hai](https://www.tripadvisor.com/Restaurant_Review-g298082-d10205170-Reviews-Ong_Hai_Mr_Hai_Restaurant-Hoi_An_Quang_Nam_Province.html)--the best noodles in Hoi An!
+* [Mango Rooms restaurant](https://www.tripadvisor.com/Restaurant_Review-g298082-d1121828-Reviews-Mango_Rooms-Hoi_An_Quang_Nam_Province.html)
+* [Banana Split Cafe](https://www.tripadvisor.com/Restaurant_Review-g298082-d3257510-Reviews-Banana_Split_Cafe-Hoi_An_Quang_Nam_Province.html)
 * [Red Bridge Cooking School](http://www.visithoian.com/redbridge/cookingschool.html)
 * [Explore Cam Kim by bike](http://www.tripadvisor.com/ShowUserReviews-g298082-d2358478-r124803857-Hoi_An_Free_Day_Tours-Hoi_An_Quang_Nam_Province.html)
+* Hoi An [water puppet show](https://www.tripadvisor.com/Attraction_Review-g298082-d8095003-Reviews-Hoi_An_Water_Puppet_Show-Hoi_An_Quang_Nam_Province.html)
+* [3 Dragons sports bar and restaurant](https://www.tripadvisor.com/Restaurant_Review-g298082-d2722706-Reviews-3_Dragons_Restaurant_Bar-Hoi_An_Quang_Nam_Province.html) - if you're missing home and want to drink with other Europeans and Americans and watch some football (of both varieties)
+* [A Dong Silk tailors](https://www.tripadvisor.com/Attraction_Review-g298082-d1194254-Reviews-A_Dong_Silk_Tailors-Hoi_An_Quang_Nam_Province.html)
+
+### Other things to do
 * [Cham Island snorkeling](http://www.tripadvisor.com/Attraction_Review-g298082-d1077858-Reviews-Cham_Island_Diving-Hoi_An_Quang_Nam_Province.html)
 * Miss Ly Cafeteria Restaurant - 22 Nguyễn Huệ, TP. Hội An, Vietnam
-* Eat cao lau
 * Silk lantern shop - Du Kien Thanh. 49 Le Loi St.
 * Banh mis at [Banh Mi Phuong](http://www.tripadvisor.com/Restaurant_Review-g298082-d2365673-Reviews-Banh_Mi_Phuong-Hoi_An_Quang_Nam_Province.html)
 * [The Moon Restaurant and Lounge](http://www.tripadvisor.com/Restaurant_Review-g298082-d1739708-Reviews-Moon_Restaurant_Lounge-Hoi_An_Quang_Nam_Province.html)
@@ -73,34 +81,38 @@
 
 <hr />
 
-## <a name="ninhbinh"></a> Ninh Binh
-### Getting there
-* Bus: 2.5 hours from Hanoi, Giap Bat bus station
-* Train: 2.5 hours from Hanoi, Reunification Express
-
-### Places to stay
-* [Kinh Do Hotel](http://www.tripadvisor.com/Hotel_Review-g303945-d803362-Reviews-Kinh_Do_Hotel-Ninh_Binh_Ninh_Binh_Province.html) - from $14 USD/night
-* [Thanh Binh Hotel](http://www.tripadvisor.com/Hotel_Review-g303945-d1231741-Reviews-Thanh_Binh_Hotel-Ninh_Binh_Ninh_Binh_Province.html) - from $16 USD/night
-
-### Things to do
-* Rent bicycle: $1-2 USD/day
-* [Trang An Grottoes](http://www.tripadvisor.com/Attraction_Review-g303945-d2484803-Reviews-Trang_An_Grottoes-Ninh_Binh_Ninh_Binh_Province.html)
-* [Cuc Phuong National Park](http://www.cucphuongtourism.com/)
-* [Mua Caves](http://www.tripadvisor.com/Attraction_Review-g303945-d5321519-Reviews-Mua_Caves-Ninh_Binh_Ninh_Binh_Province.html)
-* [Tam Coc and Hoa Lu full day tour from Hanoi](http://www.getyourguide.com/hanoi-l205/1-day-hoa-lu-tam-coc-tour-from-hanoi-t27339/) (beware - lots of tourists)
-
-<hr />
-
 ## <a name="halongbay"></a> Ha Long Bay
 
 ### Getting there
 * Bus: 3 hours from Hanoi to Halong City
-* My Dinh Bus Station in Hanoi to Halong ~$5 USD
-* Private car from Hanoi to Ha Long Bay ~$100 USD
+* Tours can be arranged by your hotel staff in Hanoi (what we did)
 
-### Things to do
-* [Kayak tour with Cat Ba Ventures](http://www.tripadvisor.com/Attraction_Review-g737051-d1368569-Reviews-Cat_Ba_Ventures-Cat_Ba.html) - $31 USD/person
-* [Cat Ba Island](http://www.lonelyplanet.com/vietnam/northeast-vietnam/cat-ba-island)
+### Where we stayed
+
+* [Galaxy Cruises](http://galaxypremiumcruises.com/)
+
+### We recommend
+
+* At least one night with a tour company (overnight on boat)
+* Kayaking
+* Enjoy the sights and meet your tour mates
+* Cave tours came included with our tour, but we didn't enjoy that part as much
+
+<hr />
+
+## <a name="hue"></a> Hue
+
+### Getting there
+* Train: Reunification Express from Da Nang
+
+### Where we stayed
+* [Serene Shining Hotel](https://www.tripadvisor.com/Hotel_Review-g293926-d8755459-Reviews-Hue_Serene_Shining_Hotel-Hue_Thua_Thien_Hue_Province.html)
+
+### We recommend
+* Imperial City
+* [Secret Lounge](https://www.tripadvisor.com/Restaurant_Review-g293926-d8678483-Reviews-Secret_Lounge-Hue_Thua_Thien_Hue_Province.html)
+* com hen at [Ba Hoa](https://www.tripadvisor.com/Restaurant_Review-g293926-d3959428-Reviews-Ba_Hoa-Hue_Thua_Thien_Hue_Province.html)
+* BBQ and grilled meat at [Thanh Na](https://www.tripadvisor.com/Restaurant_Review-g293926-d6001480-Reviews-Thanh_na_restaurant-Hue_Thua_Thien_Hue_Province.html)
 
 <hr />
 
@@ -110,21 +122,20 @@
 * Air: Da Nang International Airport
 * Train: Reunification Express
 
-### Things to do
-* Non Nuoc beach
-* Buddhist pagodas
-* [Marble Mountains](http://www.tripadvisor.com/Attraction_Review-g298085-d454980-Reviews-The_Marble_Mountains-Da_Nang_Quang_Nam_Province.html)
+### Where we stayed
+* [King's Finger Hotel](https://www.tripadvisor.com/Hotel_Review-g298085-d6668057-Reviews-King_s_Finger_Hotel-Da_Nang_Quang_Nam_Province.html)
 
 <hr />
 
-## <a name="cantho"></a> Can Tho
+## <a name="sapa"></a> Sapa
 
 ### Getting there
-* Bus: ~3.5-4hrs from HCMC
-* [Mai Linh Express bus lines](http://www.lonelyplanet.com/vietnam/transport/transportation-travel-services/mai-linh-express)
+* Train: from Hanoi to Lao Cai
+* Arrange with tour group to be picked up by van to Sapa (do not get suckered by van drivers waiting at train station)
 
-### Places to stay
-* [Kim Tho Hotel](http://www.agoda.com/kim-tho-hotel/hotel/can-tho-vn.html)
+### Where we stayed
+* [Sapa Stunning View Hotel](https://www.tripadvisor.com/Hotel_Review-g311304-d7930350-Reviews-Sapa_Stunning_view_hotel-Sapa_Lao_Cai_Province.html)
 
-### Things to do
-* [Cai Rang floating market](http://www.tripadvisor.com/Attraction_Review-g303942-d455150-Reviews-Cai_Rang_Floating_Market-Can_Tho_Mekong_Delta.html) - walk around city and find a boat tour to the market
+### We recommend
+* Trek through Sapa and overnight stay with [Sapa Sisters](https://sapasisters.com/)
+* Buy local crafts at [Indigo Cat](https://www.lonelyplanet.com/vietnam/sapa/shopping/indigo-cat/a/poi-sho/1445326/357936)
