@@ -1,78 +1,59 @@
 # Laos
 
+* [4000 Islands](#islands)
 * [Pakse](#pakse)
-* Tha Khaek](#thakhek)
-* [Vientiane](#vientiane)
-* [Luang Prabang](#luang)
+* [Luang Prabang](#luangprabang)
+
+## <a name="islands"></a> 4,000 Islands - Don Khon
+
+### Getting there
+
+* We traveled by van from Siem Reap, Cambodia with [Asia Van Transfer](http://asiavantransfer.com/)
+
+### Where we stayed
+
+* [Pans Guesthouse](https://www.tripadvisor.com/Hotel_Review-g1510725-d2018887-Reviews-Pans_Guest_House-Don_Khone_Champasak_Province.html)
+
+### We recommend
+
+* Leisurely bike rides
+* Liphi waterfalls
+* Arrange a tour to see the irrawaddy fresh water dolphins
+* Lay on your hammock all day
 
 ## <a name="pakse"></a> Pakse
 
-### Things to do
-
-* Green Discovery ziplining adventure
-* Khmer ruins of Wat Phu (Champsak)
-
 ### Getting there
 
-* 4.5 hour bus to Tha Khaek
+* Via bus from 4000 Islands
 
-## <a name="thakhek"></a>Tha Khaek / Thakhek
+### Where we stayed
 
-### Things to do
+* [Champasak Palace Hotel](https://www.tripadvisor.com/Hotel_Review-g670161-d641388-Reviews-Champasak_Palace_Hotel-Pakse_Champasak_Province.html)
 
-* Tham Kong Lo: kayaking in Kong Lor cave
+### We recommend
 
-### Getting there
-
-* 6 hours bus to Vientiane
-* 4.5 hours bus to Pakse
-
-## <a name="vientiane"></a> Vientiane
-
-### Getting there
-
-* By air from Luang Prabang: ~45 min
-* By bus from Luang Prabang: ~9 hours
-
-### Places to stay
-
-* [Villa Lao Guesthouse](http://www.villa-lao-guesthouse.com/)
-* [Mali Namphu Guesthouse](http://www.malinamphu.com/MSindex.htm)
-* [Hotel Khamvongsa](http://www.hotelkhamvongsa.com/)
-
-### Things to do
-
-* [Pha That Luang](http://en.wikipedia.org/wiki/Pha_That_Luang)
-* [Patuxai](http://www.tripadvisor.ca/Attraction_Review-g293950-d325292-Reviews-Patuxai-Vientiane_Vientiane_Province.html)
-* [Vientiane Bicycle Tour](http://www.vientianebycycle.com/index.php?contID=1&lang=En)
-* Eat at [Makphet](http://www.friends-international.org/shop/makphet.asp?mm=sh&sm=mk), run by Friends International
-* [Ban Anou Night Market](http://www.lonelyplanet.com/laos/vientiane/restaurants/southeast-asian/ban-anou-night-market)
-* Have a drink at [Spirit House](http://www.tripadvisor.com/Restaurant_Review-g293950-d1034443-Reviews-Spirit_House_Bar_Restaurant-Vientiane_Vientiane_Province.html)
-
-### Festivals, Holidays 2015
-
-* Pi Mai (Lao New Year): April 13-15
+* Green Discovery [tree top explorer tour](https://www.tripadvisor.com/Hotel_Review-g1510725-d2018887-Reviews-Pans_Guest_House-Don_Khone_Champasak_Province.html)
 
 <hr />
 
-## <a name="luang"></a> Luang Prabang
+## <a name="luangprabang"></a> Luang Prabang
 
 ### Getting there
 
-* By air from Siem Reap: ~2hrs
+* By air from Pakse
 
-### Places to stay
+### Where we stayed
 
-* [Khoum Xiengthong Guesthouse](http://www.khoumxiengthong.com/)
-* [Nora Singh Guesthouse](http://www.lonelyplanet.com/laos/northern-laos/luang-prabang/hotels/nora-singh-guesthouse)
-* [Villa Senesouk](http://www.villa-senesouk.com/)
+* [Sayo Xieng Mouane](https://www.tripadvisor.com/Hotel_Review-g295415-d3595891-Reviews-Sayo_Xieng_Mouane-Luang_Prabang_Luang_Prabang_Province.html)
 
-### Things to do
-
-* Rent a bike from $2-4 USD/day
-* [Green Discover Laos](http://www.greendiscoverylaos.com/) tours
-* [Tiger Trail](http://www.laos-adventures.com/) outdoor adventures
-* [Royal Palace Museum](http://www.lonelyplanet.com/laos/northern-laos/luang-prabang/sights/museums-galleries/royal-palace-museum)
-* [Phu Si](http://www.lonelyplanet.com/laos/northern-laos/luang-prabang/sights/natural-landmarks/phu-si)
-* [Tamarind cooking school](http://www.tamarindlaos.com/cooking-school/)
+### We recommend
+* Khao soi at street stalls
+* [Bamboo restaurant](https://www.tripadvisor.com/Restaurant_Review-g295415-d3617600-Reviews-Bamboo_Restaurant-Luang_Prabang_Luang_Prabang_Province.html)
+* [Joma Bakery](https://www.tripadvisor.com/Restaurant_Review-g295415-d1733459-Reviews-Joma_Bakery_Cafe-Luang_Prabang_Luang_Prabang_Province.html)
+* [L'etranger Books and Tea](https://www.tripadvisor.com/Attraction_Review-g295415-d1572658-Reviews-L_etranger_Books_and_Tea-Luang_Prabang_Luang_Prabang_Province.html)
 * [Kuang Si Falls](http://somanymiles.com/2013/05/how-to-get-to-kuang-si-waterfall-luang-prabang/)
+* Textiles from [Ock Pop Tok](http://ockpoptok.com/) ($$$)
+* Night market
+* Explore temples/wats
+* Mount Phu Si
