@@ -1,10 +1,9 @@
 # South Korea
 
 * [Seoul](#seoul)
-* [Seoraksan](#seoraksan)
-* [Chungju](#chungju)
-* [Gyeongju](#gyeongju)
 * [Busan](#busan)
+* [Jeonju](#jeonju)
+* [Chungju](#chungju)
 
 ## <a name="seoul"></a>Seoul
 
@@ -36,23 +35,34 @@
 
 <hr />
 
-## <a name="seoraksan"></a>Seoraksan
+## <a name="busan"></a>Busan
 
 ### Getting there
 
-* Gangbyeon Station > Exit #4 > bus terminal > [Sokcho Intercity Bus Terminal](http://www.sitdowndisco.com/seoul-to-sokcho-seoraksan/) (~$16)
+* KTX: Seoul to Busan
 
 ### Places to stay
 
-* [Sorak Park Hotel](http://www.tripadvisor.com/Hotel_Review-g317129-d455989-Reviews-Sorak_Park_Hotel-Sokcho_Gangwon_do.html)
-* [Mr. Egg Sokcho Guesthouse](http://www.tripadvisor.com/Hotel_Review-g317129-d7074531-Reviews-Mr_Egg_Sokcho_Guesthouse-Sokcho_Gangwon_do.html)
-* [Spa Pension Basso](http://www.agoda.com/spa-pension-basso/hotel/sokcho-si-kr.html)
-* [Marine Guesthouse](http://www.agoda.com/marine-guesthouse/hotel/sokcho-si-kr.html)
-
 ### Things to do
 
-* [Seoraksan courses](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_6.jsp?cid=257506)
-* [Daecheongbong Peak](https://klimbingkoreanmountains.wordpress.com/category/hiking-expeditions/south-korea/national-parks/seoraksan-national-park-%EC%84%A4%EC%95%85%EC%82%B0/)
+* [Shinsegae department store](http://www.tripadvisor.com/Attraction_Review-g297884-d2344546-Reviews-Shinsegae_Dept_Store_Centum_City-Busan.html)
+* Hang at a [jimjilbang](http://cityawesome.com/busan1/2011/05/songdo-haesoopia-spa-jjimjilbang/)
+* [Old Record Bar](http://cityawesome.com/busan1/2012/03/old-record-bar-seomyeon/) in Seomyeon
+* Stamp treasure hunt in [Gamcheon Culture Village](http://www.tripadvisor.com/Attraction_Review-g297884-d3901349-Reviews-Gamcheon_Culture_Village-Busan.html)
+* [Jagalchi Market](http://www.tripadvisor.com/Attraction_Review-g297884-d1372972-Reviews-Jagalchi_Market-Busan.html)
+* [Taejongdae Park](http://www.tripadvisor.com/Attraction_Review-g297884-d1552284-Reviews-Taejongdae-Busan.html)
+* Lotte Giants baseball game
+* [Slice of Life Pizza](https://www.facebook.com/pizzeriasol/) for when the pizza craving becomes too much
+
+<hr />
+
+## <a name="jeonju"></a>Jeonju
+
+### Getting there
+
+### Places to stay
+
+### Things to do
 
 <hr />
 
@@ -75,39 +85,6 @@
 * Take ferry to Chungjuho Lake
 * Eat apples, which Chungju is famous for
 * Eat porridge at Bonjuk or Damjuk
-
-<hr />
-
-## <a name="gyeongju"></a>Gyeongju
-
-### Getting there
-
-### Places to stay
-
-### Things to do
-
-* [Seokguram Grotto and Bulguksa Temple](http://whc.unesco.org/en/list/736)
-
-<hr />
-
-## <a name="busan"></a>Busan
-
-### Getting there
-
-* KTX: Seoul to Busan
-
-### Places to stay
-
-### Things to do
-
-* [Shinsegae department store](http://www.tripadvisor.com/Attraction_Review-g297884-d2344546-Reviews-Shinsegae_Dept_Store_Centum_City-Busan.html)
-* Hang at a [jimjilbang](http://cityawesome.com/busan1/2011/05/songdo-haesoopia-spa-jjimjilbang/)
-* [Old Record Bar](http://cityawesome.com/busan1/2012/03/old-record-bar-seomyeon/) in Seomyeon
-* Stamp treasure hunt in [Gamcheon Culture Village](http://www.tripadvisor.com/Attraction_Review-g297884-d3901349-Reviews-Gamcheon_Culture_Village-Busan.html)
-* [Jagalchi Market](http://www.tripadvisor.com/Attraction_Review-g297884-d1372972-Reviews-Jagalchi_Market-Busan.html)
-* [Taejongdae Park](http://www.tripadvisor.com/Attraction_Review-g297884-d1552284-Reviews-Taejongdae-Busan.html)
-* Lotte Giants baseball game
-* [Slice of Life Pizza](https://www.facebook.com/pizzeriasol/) for when the pizza craving becomes too much
 
 <hr />
 
