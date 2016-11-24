@@ -38,11 +38,13 @@
 * Beef lok lak at [Genevieve's](http://www.tripadvisor.com/Restaurant_Review-g297390-d4037530-Reviews-Genevieve_s_Restaurant-Siem_Reap_Siem_Reap_Province.html)
 * Fish amok or fried quail at [Neary Khmer Restaurant](http://www.tripadvisor.com/Restaurant_Review-g297390-d2333155-Reviews-Neary_Khmer_Restaurant-Siem_Reap_Siem_Reap_Province.html)
 * 2-day tour of Angkor Temples with [Affinity Angkor](http://www.tripadvisor.com/Attraction_Review-g297390-d2674750-Reviews-Affinity_Angkor_Private_Tours-Siem_Reap_Siem_Reap_Province.html) - $65 USD/person
+* [Made in Cambodia Market](https://www.tripadvisor.com/Attraction_Review-g297390-d4066214-Reviews-Made_in_Cambodia_Market-Siem_Reap_Siem_Reap_Province.html)
 
 ### Our favorite temples
-* Ta Som
-* Preah Khan
-* Bayon
-* Angkor Wat
-* Banteay Srei
-* Beng Melea
+* [Ta Som](https://www.wmf.org/project/ta-som-temple)
+* [Preah Khan](https://www.wmf.org/project/preah-khan-temple)
+* [Bayon](https://www.lonelyplanet.com/cambodia/angkor-thom/attractions/bayon/a/poi-sig/500534/1318768)
+* [Angkor Wat](https://www.lonelyplanet.com/cambodia/temples-of-angkor/attractions/angkor-wat/a/poi-sig/500516/1002179)
+* [Banteay Srei](https://www.lonelyplanet.com/cambodia/temples-of-angkor/attractions/banteay-srei/a/poi-sig/500526/1002179)
+* [Beng Melea](https://www.lonelyplanet.com/cambodia/siem-reap/activities/day-trip-to-beng-mealea-temple-and-kampong-khleang-from-siem-reap/a/pa-act/v-18844P2/355886) - we arranged a driver via front desk at our guesthouse, ~$60 USD
+* Sunrise at [Phnom Bakheng](https://www.wmf.org/project/phnom-bakheng)
