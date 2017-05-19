@@ -5,6 +5,22 @@
 
 ## <a name="mexico-city"></a>Mexico City
 
+### Things to do
+
+- [Frida Kahlo Museum](http://www.museofridakahlo.org.mx/)
+- [Teotihuacan](http://whc.unesco.org/en/list/414)
+- [Coyoacan neighborhood](https://www.tripadvisor.com/Attraction_Review-g150800-d152795-Reviews-Coyoacan-Mexico_City_Central_Mexico_and_Gulf_Coast.html)
+- [Cafebrería El Péndulo](https://www.yelp.com/biz/cafebrer%C3%ADa-el-p%C3%A9ndulo-m%C3%A9xico-3)
+- [Mercado de Medellín](https://www.yelp.com/biz/mercado-de-medell%C3%ADn-m%C3%A9xico-2)
+- [La Isla de las Munecas](http://www.atlasobscura.com/places/la-isla-de-las-munecas)
+- [Plaza de las Tres Culturas](https://www.tripadvisor.com/Attraction_Review-g150800-d156034-Reviews-Plaza_de_las_Tres_Culturas-Mexico_City_Central_Mexico_and_Gulf_Coast.html)
+
+### Restaurants and foods to try
+
+- cocktails at [Baltra](https://www.yelp.com/biz/baltra-m%C3%A9xico)
+- [The Guardian food guide](https://www.theguardian.com/travel/2013/feb/08/best-places-eat-street-food-mexico-city)
+- [Eater food guide](https://www.eater.com/2016/3/21/11237474/mexican-street-food-mexico-city-tacos)
+
 ## <a name="oaxaca"></a>Oaxaca
 ### Where to Stay
 - [La Betulia](https://www.labetulia.com/) - ~$82/night
