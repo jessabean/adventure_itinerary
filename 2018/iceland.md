@@ -28,8 +28,14 @@
 - [Sægreifinn (The Seabaron)](http://www.saegreifinn.is/en/) for lobster stew
 - [Fish Market](http://www.fiskmarkadurinn.is/)
 - [Grillmarket](http://www.grillmarkadurinn.is/en/)
+- Brunch at [Coocoo's Nest](https://www.coocoosnest.is/)
 - lamb soup
 - fish stew
+
+### Car rental
+- [Auto Europe](https://www.autoeurope.com/car-rental-iceland/?aff=MISSTOURIST)
+- [RentalCars.com](https://www.rentalcars.com/en/country/is/?affiliateCode=misstouri978)
+- [Everything you need to know about renting a car in Iceland](https://livelifewithaview.com/everything-you-need-know-car-rental-iceland/)
 
 ## <a name="selfoss"></a> Selfoss
 
@@ -38,12 +44,17 @@
 
 ### Places to stay
 - [Marta House](https://www.booking.com/hotel/is/marta-house.html)
+- [Minniborgir Cottages](https://www.expedia.com/South-Iceland-Hotels-Minniborgir-Cottages.h8284462.Hotel-Information)
 
 ### Things to do
 
 - [Selfoss Geyser](https://www.tripadvisor.com/Attraction_Review-g315852-d553848-Reviews-Selfoss_Geyser-Selfoss_South_Region.html)
 - [Kerid Crater](https://www.tripadvisor.com/Attraction_Review-g315852-d3530877-Reviews-Kerid_Crater-Selfoss_South_Region.html)
+- [Secret Lagoon](https://secretlagoon.is/)
 - Eat at [Fjörborðið](https://www.fjorubordid.is/english/)
+- Hot dogs at [Pylsuvagninn](https://www.tripadvisor.com/Restaurant_Review-g315852-d7795607-Reviews-Pylsuvagninn-Selfoss_South_Region.html)
+- [Restaurant Varma](http://www.frostogfuni.is/restaurant-varma/menus/) at Frost & Fire Hotel
+- [Kaffi Krus](https://kaffikrus.is/)
 
 ## <a name="vik"></a> Vik
 
@@ -51,13 +62,19 @@
 - [Drive](https://goo.gl/maps/1ioJEM7hjxR2)
 
 ### Places to stay
-
+- [Vik Hostel](https://iheartreykjavik.net/2013/05/vik-hostel-a-cozy-and-welcoming-placeto-rest-your-weary-head-in-south-iceland/)
+- [Guesthouse Carina](https://www.tripadvisor.com/Hotel_Review-g189978-d8593343-Reviews-Guesthouse_Carina-Vik_South_Region.html)
+- [Icelandair Hotel Vik](https://www.booking.com/hotel/is/vik-i-myrdal.en-us.html)
 
 ### Things to do
 
 - [Glacier Walk](https://iheartreykjavik.net/the-tours/partner-tours/glacier-walk-in-solheimajokull/)
 - [Reyniksfjara Beach](https://www.tripadvisor.com/Attraction_Review-g189978-d8004333-Reviews-Reynisfjara_Beach-Vik_South_Region.html)
+- [Dyrholaey arch](https://guidetoiceland.is/connect-with-locals/jorunnsg/dyrholaey-the-arch-with-the-hole)
+- [Seljavallalaug Pool](https://iheartreykjavik.net/2013/05/seljavallalaug-a-hiidden-gem-in-south-iceland/)
 - Buy wool at [Vikurprjon](https://www.tripadvisor.com/Attraction_Review-g189978-d10330838-Reviews-Vikurprjon_Wool_Factory-Vik_South_Region.html)
+- Pizza at [Halldorskaffi](https://www.tripadvisor.com/Restaurant_Review-g189978-d1866968-Reviews-Halldorskaffi-Vik_South_Region.html)
+- [Sudur Vik](https://www.facebook.com/Sudurvik)
 
 ## Tips
 - [How to Photograph the Northern Lights](https://www.davemorrowphotography.com/2014/10/how-to-photograph-northern-lights.html)
