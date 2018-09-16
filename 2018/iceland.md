@@ -11,7 +11,9 @@
 * Fly into Keflavik International
 
 ### Places to stay
-- [Northern Light Inn](https://www.booking.com/hotel/is/northern-light-inn.html?aid=1143113)
+- **Airbnb***
+- [Reykjavik Lights Hotel](https://www.booking.com/hotel/is/reykjavik-lights.html)
+- [Northern Light Inn](https://www.booking.com/hotel/is/northern-light-inn.html?aid=1143113) (not in Reykjavik; closer to Airport/Blue Lagoon)
 
 ### Things to do
 - [I Heart Reykjavik Walking Tour](https://iheartreykjavik.net/the-tours/our-tours/the-iheart-reykjavik-walking-tour/)
@@ -40,11 +42,14 @@
 ## <a name="selfoss"></a> Selfoss
 
 ### Getting there
-- [Drive](https://goo.gl/maps/1m7JooBgJQ62)
+- [Reykjavik to Selfoss](https://goo.gl/maps/1m7JooBgJQ62): ~46m
+- [Vik to Selfoss](https://goo.gl/maps/aSxmzgx1S8M2): ~1h36m
+- [Airport to Selfoss](https://goo.gl/maps/pXhVHjuy9KN2): ~1h17m
 
 ### Places to stay
 - [Marta House](https://www.booking.com/hotel/is/marta-house.html)
 - [Minniborgir Cottages](https://www.expedia.com/South-Iceland-Hotels-Minniborgir-Cottages.h8284462.Hotel-Information)
+- **[Guesthouse Bitra B&B](https://www.tripadvisor.com/Hotel_Review-g315852-d3411014-Reviews-Guesthouse_Bitra_B_B-Selfoss_South_Region.html)***
 
 ### Things to do
 
@@ -59,16 +64,21 @@
 ## <a name="vik"></a> Vik
 
 ### Getting there
-- [Drive](https://goo.gl/maps/1ioJEM7hjxR2)
+- [Reykjavik to Vik](https://goo.gl/maps/br6Ey9on8Ep): ~2h26m
+- [Selfoss to Vik](https://goo.gl/maps/1ioJEM7hjxR2): ~1h40m
+- [Airport to Vik](https://goo.gl/maps/b7WFzuH9WhD2): ~2h55m
 
 ### Places to stay
 - [Vik Hostel](https://iheartreykjavik.net/2013/05/vik-hostel-a-cozy-and-welcoming-placeto-rest-your-weary-head-in-south-iceland/)
 - [Guesthouse Carina](https://www.tripadvisor.com/Hotel_Review-g189978-d8593343-Reviews-Guesthouse_Carina-Vik_South_Region.html)
 - [Icelandair Hotel Vik](https://www.booking.com/hotel/is/vik-i-myrdal.en-us.html)
+- **[Guesthouse Steig](https://www.tripadvisor.com/Hotel_Review-g189978-d2160873-Reviews-Guesthouse_Steig-Vik_South_Region.html)***
 
 ### Things to do
 
-- [Glacier Walk](https://iheartreykjavik.net/the-tours/partner-tours/glacier-walk-in-solheimajokull/)
+- Glacier Walk
+  - **[Extreme Iceland](https://www.extremeiceland.is/en/destinations/south-iceland/glacier-hiking)***
+  - [I Heart Reykjavik partner tour](https://iheartreykjavik.net/the-tours/partner-tours/glacier-walk-in-solheimajokull/)
 - [Reyniksfjara Beach](https://www.tripadvisor.com/Attraction_Review-g189978-d8004333-Reviews-Reynisfjara_Beach-Vik_South_Region.html)
 - [Dyrholaey arch](https://guidetoiceland.is/connect-with-locals/jorunnsg/dyrholaey-the-arch-with-the-hole)
 - [Seljavallalaug Pool](https://iheartreykjavik.net/2013/05/seljavallalaug-a-hiidden-gem-in-south-iceland/)
