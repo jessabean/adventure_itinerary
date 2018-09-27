@@ -37,7 +37,9 @@
 ### Car rental
 - [Auto Europe](https://www.autoeurope.com/car-rental-iceland/?aff=MISSTOURIST)
 - [RentalCars.com](https://www.rentalcars.com/en/country/is/?affiliateCode=misstouri978)
+- **[Lagoon Car Rental](https://lagooncarrental.is/)***
 - [Everything you need to know about renting a car in Iceland](https://livelifewithaview.com/everything-you-need-know-car-rental-iceland/)
+- [Where to get the cheapest fuel in Iceland](https://www.northbound.is/blog/190/where-to-get-the-cheapest-fuel-in-iceland)
 
 ## <a name="selfoss"></a> Selfoss
 
